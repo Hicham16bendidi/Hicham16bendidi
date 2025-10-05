@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💫 Hey there, I'm Yaz!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Hicham%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Innovator;AI+%26+Cybersecurity+Enthusiast;Building+Tomorrow's+Solutions;Spring+Boot+%7C+Java+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Mobile+App+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -11,22 +11,24 @@
 ## 🎯 Who Am I?
 
 ```java
-public class Yaz extends Developer implements Innovation {
+public class Hicham extends Developer implements Innovation {
     
-    private String currentRole = "Software Development Intern @ Ciments du Maroc";
-    private String[] passions = {"AI & ML", "Cybersecurity", "Backend Architecture"};
-    private String mission = "Building secure, scalable solutions that create real impact";
+    private String education = "5th Year Computer Science & Network Engineering @ EMSI";
+    private String location = "Casablanca, Morocco 🇲🇦";
+    private String[] passions = {"AI & Mobile Development", "Full-Stack Web Apps", "Problem Solving"};
+    private String mission = "Building innovative solutions that make a difference";
     
     @Override
     public void dailyRoutine() {
         drinkCoffee();
         writeCleanCode();
         learnNewTech();
+        buildCoolStuff();
         repeat();
     }
     
     public String getCurrentFocus() {
-        return "Implementing NIST CSF 2.0 🛡️ | Oracle Java Backend Prep 🚀";
+        return "Graduating 2026 🎓 | Seeking Internship Opportunities 🚀";
     }
 }
 ```
@@ -40,29 +42,29 @@ public class Yaz extends Developer implements Innovation {
 ### **Backend & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Databases & Cloud**
+### **Frontend & Mobile**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### **Databases & Data**
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+### **Tools & Systems**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **AI & Security**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### **Operating Systems**
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### **AI & Development**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -85,42 +87,49 @@ public class Yaz extends Developer implements Innovation {
 
 ---
 
-## 🎯 Current Mission
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 Security First
-- Implementing **NIST CSF 2.0** framework
-- DevSecOps pipeline integration
-- Vulnerability assessment & mitigation
-- Security best practices in Spring Boot
+### 🏥 MediScan AI
+**AI-Powered Medical Diagnostic App**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Mobile application leveraging artificial intelligence to analyze skin images for preliminary diagnostics. Built with Android Studio and integrated AI models for real-time image analysis.
+
+**April 2025**
 
 </td>
+
+
 <td width="50%">
 
-### 🚀 Technical Growth
-- Mastering **Spring Boot microservices**
-- Advanced **Java concurrency** patterns
-- **Oracle Java Backend** certification prep
-- AI/ML model optimization
+### 🏨 Hotel Invoice Management
+**Desktop Billing Application**
+
+![Java Swing](https://img.shields.io/badge/-Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Professional billing application using Java Swing for efficient hotel invoice management and payment processing.
+
+**August 2024**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 More Coming Soon...
+**Always Building & Learning**
+
+Currently working on new projects involving full-stack development, AI integration, and innovative solutions. Stay tuned!
 
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Achievements & Highlights
-
-```
-⚡ Built production-ready Spring Boot applications
-🧠 Developed OCR & Computer Vision solutions
-🛡️ Implementing enterprise-level security frameworks
-🎓 Advancing through Oracle Java certification path
-🌟 Contributing to open-source projects
-```
 
 ---
 
@@ -130,11 +139,65 @@ public class Yaz extends Developer implements Innovation {
 
 | Domain | Technologies | Proficiency |
 |--------|-------------|-------------|
-| **Backend Development** | Java, Spring Boot, REST APIs, Microservices | ████████░░ 80% |
-| **AI & Computer Vision** | TensorFlow, OpenCV, OCR, ML Models | ███████░░░ 70% |
-| **Cybersecurity** | NIST CSF, Spring Security, DevSecOps | ████████░░ 75% |
-| **Database Management** | MySQL, PostgreSQL, Redis, MongoDB | ███████░░░ 70% |
-| **DevOps** | Docker, Kubernetes, CI/CD, Jenkins | ███████░░░ 65% |
+| **Backend Development** | Java, Spring, PHP, PL/SQL | ████████░░ 80% |
+| **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap | ████████░░ 75% |
+| **Mobile Development** | Android Studio, Java Mobile | ███████░░░ 70% |
+| **Database Management** | MySQL, Oracle, Data Warehousing | ████████░░ 75% |
+| **AI & Innovation** | AI Integration, Image Analysis | ███████░░░ 65% |
+| **Systems & Networks** | Windows Admin, VMware, TCP/IP | ███████░░░ 70% |
+
+</div>
+
+---
+
+## 🎓 Education Journey
+
+```
+🎓 EMSI (École Marocaine des Sciences de l'Ingénieur)
+   Computer and Network Engineering
+   2021 - 2026 (Expected Graduation)
+   
+🔬 Faculté des Sciences Semlalia
+   Physical Science
+   2020 - 2022
+```
+
+---
+
+## 🌟 What Makes Me Different
+
+<div align="center">
+
+```
+✨ Problem Solver       →  Finding creative solutions to complex challenges
+⚡ Fast Learner         →  Quickly adapting to new technologies and frameworks
+🎯 Detail-Oriented      →  Writing clean, maintainable, and efficient code
+🚀 Innovation-Driven    →  Always exploring cutting-edge technologies
+🤝 Team Player          →  Strong communication and collaboration skills
+⏱️ Time Management      →  Delivering projects on schedule with quality
+```
+
+</div>
+
+---
+
+## 📈 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaz123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇲🇦 **Arabic** | Native |
+| 🇫🇷 **French** | Fluent |
+| 🇬🇧 **English** | Professional |
 
 </div>
 
@@ -145,9 +208,12 @@ public class Yaz extends Developer implements Innovation {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hichambendidi16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaz123)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+**📍 Based in Casablanca, Morocco**  
+**📞 +212-767-835-117**
 
 </div>
 
@@ -169,6 +235,10 @@ public class Yaz extends Developer implements Innovation {
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-### ⚡ *"Code is poetry written in logic"*
+### ⚡ *"Turning ideas into code, one commit at a time"*
+
+**💼 Open to Internship Opportunities | Graduating 2026 🎓**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
