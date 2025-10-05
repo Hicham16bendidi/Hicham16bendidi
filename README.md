@@ -125,28 +125,7 @@ public class Hicham extends Developer implements Innovation {
 
 <br/>
 
-<!-- Animated Fire ASCII Art -->
-```
-                                       (
-                                       )\ )  (
-                                      (()/( ))\
-                                       /(_)|/((_)
-                                      (_))_|_))
-                                      | |_ | _ \
-                                      | __||   /
-                                       \__||_|_\
-                                       
-                         🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-                       🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-                     🔥🔥🔥       🔥🔥🔥       🔥🔥🔥
-                    🔥🔥🔥         🔥🔥🔥         🔥🔥🔥
-                   🔥🔥🔥           🔥🔥           🔥🔥🔥
-                  🔥🔥🔥             🔥             🔥🔥🔥
-                 🔥🔥🔥                             🔥🔥🔥
-                🔥🔥🔥                               🔥🔥🔥
-```
 
-<br/>
 
 ### ⚡ What's Brewing ⚡
 
@@ -156,47 +135,11 @@ public class Hicham extends Developer implements Innovation {
 
 <div align="center">
 
-| 🎯 Category | 🚀 Status | 🌡️ Heat Level |
-|------------|-----------|---------------|
-| **New Project** | `███████░░░ 70%` | 🔥🔥🔥🔥🔥🔥🔥 |
-| **Features** | `█████░░░░░ 50%` | 🔥🔥🔥🔥🔥 |
-| **Documentation** | `████░░░░░░ 40%` | 🔥🔥🔥🔥 |
-| **Testing** | `███░░░░░░░ 30%` | 🔥🔥🔥 |
-
-<br/>
-
 ### 🎬 Coming Soon™️
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
-> **"Something big is on the horizon... Stay tuned! 👀"**
-
-<br/>
-
-<!-- Flame Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<br/>
-
-### 🔔 Get Notified
-
-[![Watch](https://img.shields.io/github/watchers/yaz123/your-repo?style=social)](https://github.com/yaz123)
-[![Star](https://img.shields.io/github/stars/yaz123/your-repo?style=social)](https://github.com/yaz123)
-[![Follow](https://img.shields.io/github/followers/yaz123?style=social)](https://github.com/yaz123)
-
-<br/>
-
-<!-- Fire GIFs -->
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/QTAVEex4ANH1pcdg16/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100"/>
-
-<br/>
-<br/>
-
-**💻 Built with passion | 🔥 Fueled by coffee | ⚡ Powered by determination**
 
 <br/>
 
