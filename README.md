@@ -89,47 +89,36 @@ public class Hicham extends Developer implements Innovation {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🏥 MediScan AI
-**AI-Powered Medical Diagnostic App**
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/yaz123)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yaz123)
+[![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/yaz123)
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+> Mobile application leveraging artificial intelligence to analyze skin images for preliminary diagnostics. Built with Android Studio and integrated AI models for real-time image analysis.
 
-Mobile application leveraging artificial intelligence to analyze skin images for preliminary diagnostics. Built with Android Studio and integrated AI models for real-time image analysis.
-
-**April 2025**
-
-</td>
+`📅 April 2025`
 
 
-<td width="50%">
+---
 
 ### 🏨 Hotel Invoice Management
-**Desktop Billing Application**
+[![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/yaz123)
+[![Desktop](https://img.shields.io/badge/Desktop_App-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yaz123)
 
-![Java Swing](https://img.shields.io/badge/-Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> Professional billing application using Java Swing for efficient hotel invoice management and payment processing with intuitive UI.
 
-Professional billing application using Java Swing for efficient hotel invoice management and payment processing.
+`📅 August 2024`
 
-**August 2024**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 💡 More Coming Soon...
-**Always Building & Learning**
+[![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)](https://github.com/yaz123)
 
-Currently working on new projects involving full-stack development, AI integration, and innovative solutions. Stay tuned!
+> Currently working on new projects involving full-stack development, AI integration, and innovative solutions. Stay tuned for more exciting projects!
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
