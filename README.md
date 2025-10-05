@@ -114,11 +114,19 @@ public class Hicham extends Developer implements Innovation {
 ---
 
 ### 💡 More Coming Soon...
-[![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)](https://github.com/yaz123)
+<div align="center">
 
-> Currently working on new projects involving full-stack development, AI integration, and innovative solutions. Stay tuned for more exciting projects!
+[![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=github)](https://github.com/yaz123)
+
+<p>
+  <b>Currently cooking up something awesome! 🔥</b>
+</p>
+
+<!-- Cool spinning animation -->
+<img src="https://i.gifer.com/ZZ5H.gif" alt="Cooking in progress" width="120"/>
 
 </div>
+
 
 ---
 
