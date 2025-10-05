@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="./goku-eyes.gif" />
+<img width="100%" height="60%" src="./goku-eyes.gif" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Software+Developer;AI+%26+Mobile+App+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
