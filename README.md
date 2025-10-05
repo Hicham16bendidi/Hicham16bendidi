@@ -90,56 +90,132 @@ public class Hicham extends Developer implements Innovation {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏥 MediScan AI
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/yaz123)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yaz123)
-[![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/yaz123)
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=statuspage&logoColor=white" />
 
-> Mobile application leveraging artificial intelligence to analyze skin images for preliminary diagnostics. Built with Android Studio and integrated AI models for real-time image analysis.
+<p align="left">
+Mobile application leveraging artificial intelligence to analyze skin images for preliminary diagnostics. Built with Android Studio and integrated AI models for real-time image analysis.
+</p>
 
-`📅 April 2025`
+**Tech Stack:**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
+**Key Features:**
+- 🤖 AI-powered image analysis
+- 📸 Real-time diagnostics
+- 📱 Native Android experience
+- 🎯 Preliminary health insights
+
+<sub>📅 Released: April 2025</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏨 Hotel Invoice Management
-[![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/yaz123)
-[![Desktop](https://img.shields.io/badge/Desktop_App-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yaz123)
+<img src="https://img.shields.io/badge/Status-Production-blue?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-> Professional billing application using Java Swing for efficient hotel invoice management and payment processing with intuitive UI.
+<p align="left">
+Professional billing application using Java Swing for efficient hotel invoice management and payment processing with intuitive UI.
+</p>
 
-`📅 August 2024`
+**Tech Stack:**
 
----
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop_App-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# 💡 More Coming Soon...
+**Key Features:**
+- 💰 Invoice generation
+- 📊 Payment tracking
+- 🖥️ Desktop application
+- 🎨 Intuitive UI/UX
 
-<div align="center">
+<sub>📅 Released: August 2024</sub>
 
-[![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=github)](https://github.com/yaz123)
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🔥 Currently Cooking Up Something Epic 🔥
+---
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+<br/>
+
+## 💡 What's Cooking in the Lab?
+
+<br/>
+
+<img src="https://img.shields.io/badge/🔬_Innovation_Mode-ACTIVATED-FF6B00?style=for-the-badge&labelColor=1a1a2e&color=FF6B00" />
+<img src="https://img.shields.io/badge/🚀_Next_Gen_Project-IN_DEVELOPMENT-00D9FF?style=for-the-badge&labelColor=1a1a2e&color=00D9FF" />
+<img src="https://img.shields.io/badge/⚡_Impact_Level-MAXIMUM-yellow?style=for-the-badge&labelColor=1a1a2e&color=FFD700" />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=🔥+Something+LEGENDARY+is+brewing...;⚡+Revolutionary+features+incoming;🚀+Prepare+for+launch+sequence;💎+Quality+over+everything;🎯+Stay+locked+in+for+the+reveal" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
-
-<!-- Animated Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&random=false&width=600&lines=Something+EPIC+is+coming...;Stay+tuned+for+the+drop+%F0%9F%94%A5;It's+gonna+be+LIT+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
-
 <br/>
+
+<details>
+<summary><b>🎯 Sneak Peek: What to Expect</b></summary>
+<br/>
+
+```yaml
+Project_Status:
+  Code_Quality: "🔥 Fire"
+  Innovation_Level: "💯 Peak"
+  Excitement_Meter: "📈 Through the roof"
+  Release_Timeline: "⏰ When it's perfect"
+  
+Tech_Arsenal:
+  - "Cutting-edge frameworks"
+  - "AI/ML integration"
+  - "Scalable architecture"
+  - "Modern UI/UX design"
+  
+Impact:
+  - "Solving real-world problems"
+  - "Pushing technical boundaries"
+  - "Creating value for users"
+```
+
+</details>
+
 <br/>
 
 ---
 
-<sub>🔥 **Last Updated:** Auto-updating with every commit | **Temperature:** 🌡️ BLAZING HOT 🌡️</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_ENERGY_LEVEL-9000+-FF0000?style=for-the-badge&logo=dragon&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🔥_TEMPERATURE-BLAZING_HOT-FF6B00?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/💎_STATUS-LEGENDARY_IN_PROGRESS-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+
+<br/>
+
+<sub>⚡ **Last Updated:** Auto-syncing with every commit | **Next Drop:** Soon™ | **Hype Level:** 🌡️ MAXIMUM 🌡️</sub>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
-
 
 
 
