@@ -119,13 +119,14 @@ public class Hicham extends Developer implements Innovation {
 [![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=github)](https://github.com/yaz123)
 
 <p>
-  <b>Currently cooking up something awesome! 🔥</b>
+  <b>Currently cooking up something 🔥🔥🔥</b>
 </p>
 
-<!-- Cool spinning animation -->
-<img src="https://i.gifer.com/ZZ5H.gif" alt="Cooking in progress" width="120"/>
+<!-- Fire animation -->
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Burning Fire" width="120"/>
 
 </div>
+
 
 
 ---
