@@ -125,20 +125,6 @@ public class Hicham extends Developer implements Innovation {
 
 <br/>
 
-
-
-### ⚡ What's Brewing ⚡
-
-</div>
-
----
-
-<div align="center">
-
-### 🎬 Coming Soon™️
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
