@@ -8,7 +8,7 @@
 <div align="center">
 💫 Hi There! I'm Hicham
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Mobile+Enthusiast+%F0%9F%A4%96;Building+Innovative+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 ---
 
